@@ -58,3 +58,6 @@ If you wish you could work with interesting data like this everyday, we are alwa
 
 
 Edit: We have identified and corrected an issue with incorrect coordinates in our CSV rows corresponding to the rectangle drawing tool. We have also heard your asks for a higher resolution version of the provided image; you can now find 2x, 3x, 4x, and 8x versions.
+
+## Further note
+I removed the gzip compression and compressed each file again with LZMA in a zip file. This has a disk space advantage. Some zip files were compressed more to respect the Github file size limit.
